@@ -1,0 +1,3 @@
+ImageButton Pokédex a destra;
+Liste di appartenenza anche a Movedex e Abilitydex;
+Commentare metodi e crea javadoc per Database, Utils, le interface e le exception (ma prima backuppa tutto e toccati).
